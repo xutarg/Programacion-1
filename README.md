@@ -3,7 +3,7 @@
 
 
 01- Facundo Ibarra
-02- Matias Fernandez
-03- Ezequiel Lodetti
+02- Matias Ivan Fernandez Goroso
+03- Ezequiel Ivan Lodetti
 04- Ramiro Fresia
-05- Freddy Miranda
+05- Freddy Esteban Miranda
